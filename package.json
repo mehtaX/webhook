@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node basic.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
-
